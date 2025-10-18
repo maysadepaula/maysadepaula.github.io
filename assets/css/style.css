@@ -1168,6 +1168,14 @@ fieldset {
 	margin-top: 10px;
 }
 
+#contact .address-icons a {
+	color: inherit; /* Faz o link herdar a cor do texto do site */
+	text-decoration: none; /* Remove o sublinhado */
+  }
+  
+  #contact .address-icons a:hover {
+	opacity: 0.8; /* (Opcional) Efeito sutil ao passar o mouse */
+  }
 
 /* 15. FOOTER
 =================================================*/
